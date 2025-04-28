@@ -1,5 +1,5 @@
 ---
-title: "Baoyue (Elena) Xing"
+title: "Elena Xing"
 image: IMG_1693.jpg
 about:
   template: jolla
