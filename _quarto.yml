@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "elenaxing.github.io"
+  title: "Welcome to Elena’s Page"
   navbar:
     left:
       - href: index.qmd
