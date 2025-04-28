@@ -1,11 +1,28 @@
 ---
-title: "elenaxing.github.io"
+title: "Baoyue (Elena) Xing"
+image: IMG_1693.jpg
+about:
+  template: jolla
+  image-shape: round
+  image-width: 15em
+  links:
+    - text: Email
+      icon: envelope
+      href: mailto:noreply@email.zz
+    - text: GitHub
+      icon: github
+      href: https://github.com/
+  id: ppc
 ---
 
-This is a Quarto website.
+:::{#ppc}
+## Skills
+- Fluent in Chinese Mandarin and English
+- Programming Languages (Python, R)
+- Strong problem-solving and collaborative teamwork skills
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
+## Education
+- Bachelor of Science in Data Science, University of Colorado (GPA: 3.8/4.0)
+- Completed coursework in Machine Learning, Data Wrangling and Visualization, and Applied Regression Analysis
+- High School Diploma, Harrow International School Shanghai
+:::
